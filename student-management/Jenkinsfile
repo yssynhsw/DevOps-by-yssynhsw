@@ -13,7 +13,7 @@ pipeline {
                 echo 'Cloning repository...'
                 git branch: 'main',
                     url: 'https://github.com/yssynhsw/DevOps-by-yssynhsw.git',
-                    credentialsId: 'github-yssynhsw'
+                    credentialsId: 'yssynhsw-gitaccess'
             }
         }
 
