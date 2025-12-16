@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0aae375-07ee-4152-a293-97629dafa578" name="Changes" comment="jenkinsfile">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student-management/jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/student-management/Jenkinsfile" afterDir="false" />
-    </list>
+    <list default="true" id="e0aae375-07ee-4152-a293-97629dafa578" name="Changes" comment="jenkinsfile agaaaaaaaaaaaaaain" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1765897371047</updated>
       <workItem from="1765897372275" duration="1322000" />
-      <workItem from="1765902415627" duration="5135000" />
+      <workItem from="1765902415627" duration="5454000" />
     </task>
     <task id="LOCAL-00001" summary="jenkins">
       <option name="closed" value="true" />
@@ -94,7 +91,31 @@
       <option name="project" value="LOCAL" />
       <updated>1765904374993</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="jenkinsfile">
+      <option name="closed" value="true" />
+      <created>1765909900443</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1765909900443</updated>
+    </task>
+    <task id="LOCAL-00005" summary="jenkinsfile">
+      <option name="closed" value="true" />
+      <created>1765909995371</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1765909995371</updated>
+    </task>
+    <task id="LOCAL-00006" summary="jenkinsfile agaaaaaaaaaaaaaain">
+      <option name="closed" value="true" />
+      <created>1765910098159</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1765910098159</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,7 +147,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="jenkins" />
     <MESSAGE value="jenkinsfile" />
-    <option name="LAST_COMMIT_MESSAGE" value="jenkinsfile" />
+    <MESSAGE value="jenkinsfile agaaaaaaaaaaaaaain" />
+    <option name="LAST_COMMIT_MESSAGE" value="jenkinsfile agaaaaaaaaaaaaaain" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>

@@ -1,10 +1,9 @@
 pipeline {
     agent any
 
-
     tools {
-
-        maven 'maven 3'
+        jdk 'jdk-25'             // JDK configured in Jenkins
+        maven 'maven-3.9.11'     // Maven configured in Jenkins
     }
 
     stages {
@@ -12,33 +11,11 @@ pipeline {
             steps {
                 git branch: 'main',
                     url: 'https://github.com/yssynhsw/DevOps-by-yssynhsw.git',
-                    credentialsId: '963890'
-            }
-        }
-
-        stage('Build') {
-            steps {
-                // Run Maven build
-                bat 'mvn clean package'
-            }
-        }
-    // Use the tools configured in Jenkins Global Tool Configuration
-    tools {
-        jdk 'jdk-25'             // JDK name you configured
-        maven 'maven-3.9.11'     // Maven name you configured
-    }
-
-    stages {
-        stage('Checkout Code') {
-            steps {
-                echo 'Cloning repository...'
-                git branch: 'main',
-                    url: 'https://github.com/yssynhsw/DevOps-by-yssynhsw.git',
                     credentialsId: 'yssynhsw-gitaccess'
             }
         }
 
-        stage('Check Java & Maven Versions') {
+        stage('Check Tools') {
             steps {
                 echo 'Verifying Java installation...'
                 bat 'java -version'
@@ -73,6 +50,5 @@ pipeline {
         failure {
             echo 'Pipeline failed! Check console output for errors.'
         }
-
     }
 }
