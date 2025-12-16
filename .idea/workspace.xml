@@ -4,41 +4,65 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0aae375-07ee-4152-a293-97629dafa578" name="Changes" comment="jenkinsfile agaaaaaaaaaaaaaain">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8bb7bb19-d48e-4dd7-8f50-3e385abdaa74" name="Changes" comment="space" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;yssynhsw&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "yssynhsw"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/yssynhsw/DevOps-by-yssynhsw.git&quot;,
-    &quot;accountId&quot;: &quot;f7890f3e-5d0c-4155-b28d-c11b259ecc0d&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/yssynhsw/DevOps-by-yssynhsw.git",
+    "accountId": "f7890f3e-5d0c-4155-b28d-c11b259ecc0d"
   }
-}</component>
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
+  &quot;associatedIndex&quot;: 2
 }</component>
-  <component name="ProjectId" id="36vqPlfMcZlHd2HHWVluW68d44L" />
+  <component name="ProjectId" id="31ubWp4CCdJMqrG6P4wOPnLsKdn" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Maven.student-management [install].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "Spring Boot.StudentManagementApplication.executor": "Run",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/hsaya/Desktop/student-management/student-management",
     "node.js.detected.package.eslint": "true",
@@ -46,14 +70,20 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\hsaya\Desktop\student-management" />
-    </key>
+  <component name="RunManager">
+    <configuration name="StudentManagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="student-management" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="tn.esprit.studentmanagement.StudentManagementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -66,104 +96,32 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e0aae375-07ee-4152-a293-97629dafa578" name="Changes" comment="" />
-      <created>1765897371047</created>
+      <changelist id="8bb7bb19-d48e-4dd7-8f50-3e385abdaa74" name="Changes" comment="" />
+      <created>1756376938546</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1765897371047</updated>
-      <workItem from="1765897372275" duration="1322000" />
-      <workItem from="1765902415627" duration="5632000" />
+      <updated>1756376938546</updated>
+      <workItem from="1756376939723" duration="5973000" />
+      <workItem from="1757852833669" duration="1052000" />
+      <workItem from="1765910405899" duration="340000" />
     </task>
-    <task id="LOCAL-00001" summary="jenkins">
+    <task id="LOCAL-00001" summary="space">
       <option name="closed" value="true" />
-      <created>1765902473472</created>
+      <created>1765910560818</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1765902473472</updated>
+      <updated>1765910560818</updated>
     </task>
-    <task id="LOCAL-00002" summary="jenkins">
-      <option name="closed" value="true" />
-      <created>1765903185986</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1765903185987</updated>
-    </task>
-    <task id="LOCAL-00003" summary="jenkinsfile">
-      <option name="closed" value="true" />
-      <created>1765904374993</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1765904374993</updated>
-    </task>
-    <task id="LOCAL-00004" summary="jenkinsfile">
-      <option name="closed" value="true" />
-      <created>1765909900443</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1765909900443</updated>
-    </task>
-    <task id="LOCAL-00005" summary="jenkinsfile">
-      <option name="closed" value="true" />
-      <created>1765909995371</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1765909995371</updated>
-    </task>
-    <task id="LOCAL-00006" summary="jenkinsfile agaaaaaaaaaaaaaain">
-      <option name="closed" value="true" />
-      <created>1765910098159</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1765910098159</updated>
-    </task>
-    <task id="LOCAL-00007" summary="jenkinsfile agaaaaaaaaaaaaaain">
-      <option name="closed" value="true" />
-      <created>1765910252504</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1765910252504</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="HEAD" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="jenkins" />
-    <MESSAGE value="jenkinsfile" />
-    <MESSAGE value="jenkinsfile agaaaaaaaaaaaaaain" />
-    <option name="LAST_COMMIT_MESSAGE" value="jenkinsfile agaaaaaaaaaaaaaain" />
+    <MESSAGE value="space" />
+    <option name="LAST_COMMIT_MESSAGE" value="space" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
